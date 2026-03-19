@@ -1,0 +1,128 @@
+{
+    "it": {
+        "navigation": {
+            "logo": "MANUTENPUL",
+            "tagline": "Facility Management",
+            "links": [
+                {
+                    "id": "servizi",
+                    "label": "Servizi",
+                    "subLinks": [
+                        {
+                            "label": "Pulizia Uffici",
+                            "href": "#uffici"
+                        },
+                        {
+                            "label": "Industriale",
+                            "href": "#industriale"
+                        },
+                        {
+                            "label": "Sanificazione",
+                            "href": "#sanificazione"
+                        },
+                        {
+                            "label": "Manutenzione",
+                            "href": "#manutenzione"
+                        }
+                    ]
+                },
+                {
+                    "id": "vision",
+                    "label": "Vision",
+                    "href": "#vision"
+                },
+                {
+                    "id": "sedi",
+                    "label": "Sedi",
+                    "href": "#sedi"
+                }
+            ],
+            "cta": "Preventivo Rapido"
+        },
+        "hero": {
+            "badge": "Operazioni Globali",
+            "titleMain": "ITALIA",
+            "titleDivider": "&",
+            "titleSecondary": "PERÙ",
+            "description": "Leader nel Facility Management e nella Manutenzione Industriale di Alta Precisione.",
+            "cta": "Consulenza Tecnica"
+        },
+        "services": [
+            {
+                "id": "uffici",
+                "title": "Pulizia Uffici",
+                "description": "Protocolli di biosicurezza per ambienti aziendali.",
+                "icon": "Building2"
+            },
+            {
+                "id": "industriali",
+                "title": "Pulizie Industriali",
+                "description": "Interventi pesanti in impianti di produzione.",
+                "icon": "Factory"
+            }
+        ]
+    },
+    "es": {
+        "navigation": {
+            "logo": "MANUTENPUL",
+            "tagline": "Facility Management",
+            "links": [
+                {
+                    "id": "servizi",
+                    "label": "Servicios",
+                    "subLinks": [
+                        {
+                            "label": "Limpieza Oficinas",
+                            "href": "#uffici"
+                        },
+                        {
+                            "label": "Industrial",
+                            "href": "#industriale"
+                        },
+                        {
+                            "label": "Sanificación",
+                            "href": "#sanificazione"
+                        },
+                        {
+                            "label": "Mantenimiento",
+                            "href": "#manutenzione"
+                        }
+                    ]
+                },
+                {
+                    "id": "vision",
+                    "label": "Visión",
+                    "href": "#vision"
+                },
+                {
+                    "id": "sedi",
+                    "label": "Sedes",
+                    "href": "#sedi"
+                }
+            ],
+            "cta": "Presupuesto Rápido"
+        },
+        "hero": {
+            "badge": "Operaciones Globales",
+            "titleMain": "ITALIA",
+            "titleDivider": "&",
+            "titleSecondary": "PERÚ",
+            "description": "Liderazgo en Facility Management y Mantenimiento Industrial de Alta Precisión.",
+            "cta": "Consultoría Técnica"
+        },
+        "services": [
+            {
+                "id": "uffici",
+                "title": "Limpieza de Oficinas",
+                "description": "Protocolos de bioseguridad para entornos corporativos.",
+                "icon": "Building2"
+            },
+            {
+                "id": "industriali",
+                "title": "Limpieza Industrial",
+                "description": "Intervenciones pesadas en plantas de producción.",
+                "icon": "Factory"
+            }
+        ]
+    }
+}
