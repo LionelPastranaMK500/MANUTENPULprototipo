@@ -5,19 +5,21 @@ import { Services } from "./pages/Services";
 import { About } from "./pages/About";
 import { Blog } from "./pages/Blog";
 import { Contact } from "./pages/Contact";
+import { Certifications } from "./pages/Certifications";
 import { NotFound } from "./pages/NotFound";
 
 export const router = createBrowserRouter([
   {
     path: "/",
-    Component: Root,
+    element: <Root />,
     children: [
-      { index: true, Component: Home },
-      { path: "servicios", Component: Services },
-      { path: "nosotros", Component: About },
-      { path: "blog", Component: Blog },
-      { path: "contacto", Component: Contact },
-      { path: "*", Component: NotFound },
+      { index: true, element: <Home /> },
+      { path: "servicios", element: <Services /> },
+      { path: "nosotros", element: <About /> },
+      { path: "blog", element: <Blog /> },
+      { path: "contacto", element: <Contact /> },
+      { path: "certificaciones/:isoId", element: <Certifications /> },
+      { path: "*", element: <NotFound /> },
     ],
   },
 ]);

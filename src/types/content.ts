@@ -1,54 +1,34 @@
-export type Language = 'IT' | 'ES';
+export type Language = "IT" | "ES" | "EN";
 
-export interface SubLink {
+export interface NavigationLink {
+  id: string;
+  label: string;
+  href?: string;
+  subLinks?: {
     label: string;
     href: string;
+  }[];
 }
 
-export interface NavLink {
-    id: string;
-    label: string;
-    href?: string;
-    subLinks?: SubLink[];
-}
-
-export interface NavigationData {
+export interface ContentLocale {
+  navigation: {
     logo: string;
     tagline: string;
-    links: NavLink[];
+    links: NavigationLink[];
     cta: string;
-}
-
-export interface HeroData {
+  };
+  hero: {
     badge: string;
     titleMain: string;
     titleDivider: string;
     titleSecondary: string;
     description: string;
     cta: string;
-}
-
-export interface ServiceItem {
+  };
+  services: {
     id: string;
     title: string;
     description: string;
     icon: string;
-}
-
-export interface PresenceData {
-    title: string;
-    highlight: string;
-    description: string;
-    locations: Array<{
-        country: string;
-        status: string;
-        description: string;
-    }>;
-}
-
-export interface ContentLocale {
-    navigation: NavigationData;
-    hero: HeroData;
-    services: ServiceItem[]; 
-    presence: PresenceData;
+  }[];
 }

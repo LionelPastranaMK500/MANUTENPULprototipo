@@ -1,0 +1,103 @@
+{
+  "IT": {
+    "iso-9001": {
+      "title": "ISO 9001:2015",
+      "subtitle": "Sistema di Gestione della Qualità",
+      "description": "Lo standard internazionale che definisce i requisiti per un sistema di gestione della qualità (SGQ). Aiuta le aziende a migliorare l'efficienza e la soddisfazione del cliente.",
+      "benefits": [
+        "Miglioramento dell'immagine",
+        "Soddisfazione del cliente",
+        "Integrazione dei processi"
+      ],
+      "icon": "Award"
+    },
+    "iso-14001": {
+      "title": "ISO 14001:2015",
+      "subtitle": "Sistema di Gestione Ambientale",
+      "description": "Certifica il nostro impegno nel proteggere l'ambiente e rispondere alle mutevoli condizioni ambientali in equilibrio con le esigenze socio-economiche.",
+      "benefits": [
+        "Riduzione dei rifiuti",
+        "Efficienza energetica",
+        "Conformità legale"
+      ],
+      "icon": "Shield"
+    },
+    "iso-45001": {
+      "title": "ISO 45001:2018",
+      "subtitle": "Salute e Sicurezza sul Lavoro",
+      "description": "Fornisce un quadro per gestire i rischi e le opportunità per la salute e la seguridad sul lavoro per prevenire infortuni e malattie.",
+      "benefits": [
+        "Ambiente sicuro",
+        "Riduzione infortuni",
+        "Cultura preventiva"
+      ],
+      "icon": "CheckCircle"
+    }
+  },
+  "ES": {
+    "iso-9001": {
+      "title": "ISO 9001:2015",
+      "subtitle": "Sistema de Gestión de Calidad",
+      "description": "El estándar internacional que define los requisitos para un sistema de gestión de calidad (SGC). Ayuda a las organizaciones a demostrar su capacidad para proporcionar productos y servicios que satisfagan los requisitos del cliente.",
+      "benefits": [
+        "Mejora de la imagen",
+        "Satisfacción del cliente",
+        "Integración de procesos"
+      ],
+      "icon": "Award"
+    },
+    "iso-14001": {
+      "title": "ISO 14001:2015",
+      "subtitle": "Sistema de Gestión Ambiental",
+      "description": "Certifica nuestro compromiso con la protección del medio ambiente y la respuesta a las condiciones ambientales cambiantes.",
+      "benefits": [
+        "Reducción de residuos",
+        "Eficiencia energética",
+        "Cumplimiento legal"
+      ],
+      "icon": "Shield"
+    },
+    "iso-45001": {
+      "title": "ISO 45001:2018",
+      "subtitle": "Salud y Seguridad en el Trabajo",
+      "description": "Proporciona un marco para gestionar los riesgos y oportunidades para la SST con el fin de prevenir lesiones y problemas de salud relacionados con el trabajo.",
+      "benefits": [
+        "Entorno seguro",
+        "Reducción de accidentes",
+        "Cultura preventiva"
+      ],
+      "icon": "CheckCircle"
+    }
+  },
+  "EN": {
+    "iso-9001": {
+      "title": "ISO 9001:2015",
+      "subtitle": "Quality Management System",
+      "description": "The international standard that specifies requirements for a quality management system (QMS). It helps organizations to improve efficiency and customer satisfaction.",
+      "benefits": [
+        "Image improvement",
+        "Customer satisfaction",
+        "Process integration"
+      ],
+      "icon": "Award"
+    },
+    "iso-14001": {
+      "title": "ISO 14001:2015",
+      "subtitle": "Environmental Management System",
+      "description": "Certifies our commitment to protecting the environment and responding to changing environmental conditions in balance with socio-economic needs.",
+      "benefits": ["Waste reduction", "Energy efficiency", "Legal compliance"],
+      "icon": "Shield"
+    },
+    "iso-45001": {
+      "title": "ISO 45001:2018",
+      "subtitle": "Occupational Health and Safety",
+      "description": "Provides a framework to manage occupational health and safety risks and opportunities to prevent injuries and ill health.",
+      "benefits": [
+        "Safe environment",
+        "Accident reduction",
+        "Preventive culture"
+      ],
+      "icon": "CheckCircle"
+    }
+  }
+}

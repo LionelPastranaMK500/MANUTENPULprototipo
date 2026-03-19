@@ -1,5 +1,12 @@
-import { Link } from "react-router";
-import { MapPin, Phone, Mail, Linkedin, Facebook, Instagram } from "lucide-react";
+import { Link } from "react-router-dom";
+import {
+  MapPin,
+  Phone,
+  Mail,
+  Linkedin,
+  Facebook,
+  Instagram,
+} from "lucide-react";
 
 export function Footer() {
   const italyLocations = [
@@ -20,23 +27,38 @@ export function Footer() {
   ];
 
   const socialLinks = [
-    { icon: Linkedin, href: "#", label: "LinkedIn", color: "hover:text-[#0077B5]" },
-    { icon: Facebook, href: "#", label: "Facebook", color: "hover:text-[#1877F2]" },
-    { icon: Instagram, href: "#", label: "Instagram", color: "hover:text-[#E4405F]" },
+    {
+      icon: Linkedin,
+      href: "#",
+      label: "LinkedIn",
+      color: "hover:text-[#0077B5]",
+    },
+    {
+      icon: Facebook,
+      href: "#",
+      label: "Facebook",
+      color: "hover:text-[#1877F2]",
+    },
+    {
+      icon: Instagram,
+      href: "#",
+      label: "Instagram",
+      color: "hover:text-[#E4405F]",
+    },
   ];
 
   return (
-    <footer className="bg-[#0A192F] text-white pt-16 pb-8">
+    <footer className="bg-[#0A192F] text-white pt-16 pb-8 border-t border-white/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
-          {/* Column 1: Brand & Description */}
+          {/* Columna 1: Marca */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="bg-[#00B4D8] text-white px-3 py-2 rounded-lg">
-                <span className="font-extrabold text-xl tracking-tight">M</span>
+              <div className="bg-[#00B4D8] text-white px-3 py-2 rounded-lg font-extrabold text-xl">
+                M
               </div>
               <div className="flex flex-col">
-                <span className="font-extrabold text-lg leading-tight tracking-tight">
+                <span className="font-extrabold text-lg leading-tight">
                   Manutenpul
                 </span>
                 <span className="text-[10px] text-[#00B4D8] font-semibold uppercase tracking-wider">
@@ -45,15 +67,14 @@ export function Footer() {
               </div>
             </div>
             <p className="text-sm text-gray-300 leading-relaxed">
-              Más de 30 años de experiencia en Facility Management y Limpieza Industrial. 
-              Operaciones en Italia y Perú con los más altos estándares de calidad.
+              Liderazgo en Facility Management y Mantenimiento Industrial con
+              más de 30 años de trayectoria.
             </p>
             <div className="flex items-center space-x-4 pt-2">
               {socialLinks.map((social) => (
                 <a
                   key={social.label}
                   href={social.href}
-                  aria-label={social.label}
                   className={`w-10 h-10 rounded-full bg-[#172a45] flex items-center justify-center transition-all duration-200 hover:scale-110 ${social.color}`}
                 >
                   <social.icon className="w-5 h-5" />
@@ -62,33 +83,33 @@ export function Footer() {
             </div>
           </div>
 
-          {/* Column 2: Italy Locations */}
+          {/* Columna 2: Italia */}
           <div>
             <h3 className="font-bold text-lg mb-4 flex items-center space-x-2">
               <MapPin className="w-5 h-5 text-[#00B4D8]" />
               <span>Sedes Italia</span>
             </h3>
             <div className="space-y-3">
-              {italyLocations.map((location) => (
-                <div key={location.city} className="text-sm">
-                  <p className="font-semibold text-[#00B4D8]">{location.city}</p>
-                  <p className="text-gray-300 text-xs leading-relaxed">{location.address}</p>
+              {italyLocations.map((loc) => (
+                <div key={loc.city} className="text-sm">
+                  <p className="font-semibold text-[#00B4D8]">{loc.city}</p>
+                  <p className="text-gray-300 text-xs">{loc.address}</p>
                 </div>
               ))}
             </div>
           </div>
 
-          {/* Column 3: Peru Locations */}
+          {/* Columna 3: Perú */}
           <div>
             <h3 className="font-bold text-lg mb-4 flex items-center space-x-2">
               <MapPin className="w-5 h-5 text-[#00B4D8]" />
               <span>Sedes Perú</span>
             </h3>
             <div className="space-y-3">
-              {peruLocations.map((location) => (
-                <div key={location.city} className="text-sm">
-                  <p className="font-semibold text-[#00B4D8]">{location.city}</p>
-                  <p className="text-gray-300 text-xs leading-relaxed">{location.address}</p>
+              {peruLocations.map((loc) => (
+                <div key={loc.city} className="text-sm">
+                  <p className="font-semibold text-[#00B4D8]">{loc.city}</p>
+                  <p className="text-gray-300 text-xs">{loc.address}</p>
                 </div>
               ))}
             </div>
@@ -110,9 +131,11 @@ export function Footer() {
             </div>
           </div>
 
-          {/* Column 4: Quick Links */}
+          {/* Columna 4: Enlaces Rápidos */}
           <div>
-            <h3 className="font-bold text-lg mb-4">Enlaces Rápidos</h3>
+            <h3 className="font-bold text-lg mb-4 text-white">
+              Enlaces Rápidos
+            </h3>
             <nav className="space-y-2">
               {quickLinks.map((link) => (
                 <Link
@@ -127,20 +150,19 @@ export function Footer() {
           </div>
         </div>
 
-        {/* Bottom Bar */}
-        <div className="pt-8 border-t border-white/10">
-          <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-sm text-gray-400">
-              © {new Date().getFullYear()} Manutenpul S.r.l.s. Todos los derechos reservados.
-            </p>
-            <div className="flex items-center space-x-6 text-sm text-gray-400">
-              <Link to="#" className="hover:text-[#00B4D8] transition-colors">
-                Política de Privacidad
-              </Link>
-              <Link to="#" className="hover:text-[#00B4D8] transition-colors">
-                Términos de Servicio
-              </Link>
-            </div>
+        {/* Barra Inferior */}
+        <div className="pt-8 border-t border-white/10 text-center md:flex md:justify-between md:items-center">
+          <p className="text-sm text-gray-400 mb-4 md:mb-0">
+            © {new Date().getFullYear()} Manutenpul S.r.l.s. Todos los derechos
+            reservados.
+          </p>
+          <div className="flex justify-center space-x-6 text-sm text-gray-400">
+            <Link to="#" className="hover:text-[#00B4D8] transition-colors">
+              Política de Privacidad
+            </Link>
+            <Link to="#" className="hover:text-[#00B4D8] transition-colors">
+              Términos de Servicio
+            </Link>
           </div>
         </div>
       </div>
