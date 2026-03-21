@@ -10,56 +10,67 @@
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dfor-the-badge%26logo%3Dvite" />
 </div>
 
+<br />
+
 🚀 Características Principales
 
 <table width="100%">
 <tr>
 <td width="50%">
-<b>🌍 Sistema Multilingüe Real</b><br />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/languages.svg" width="20" height="20" /> <b>Sistema Multilingüe Real</b><br />
 Soporte completo para IT, ES y EN gestionado mediante Context API para una reactividad instantánea.
 </td>
 <td width="50%">
-<b>📜 Certificaciones Dinámicas</b><br />
-Páginas de detalle para ISO 9001, 14001 y 45001 generadas dinámicamente desde archivos JSON estructurados.
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/file-check.svg" width="20" height="20" /> <b>Certificaciones Dinámicas</b><br />
+Páginas de detalle para ISO 9001, 14001 y 45001 generadas desde archivos JSON estructurados.
 </td>
 </tr>
 <tr>
 <td>
-<b>🌓 Gestión de Temas</b><br />
-Modo Oscuro y Claro implementado con <code>next-themes</code>, optimizado para la comodidad visual del usuario.
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/moon.svg" width="20" height="20" /> <b>Gestión de Temas</b><br />
+Modo Oscuro y Claro implementado con <code>next-themes</code>, optimizado para el usuario.
 </td>
 <td>
-<b>📱 Diseño Responsivo</b><br />
-Arquitectura Mobile-First garantizando una experiencia fluida en móviles, tablets y estaciones de trabajo.
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/smartphone.svg" width="20" height="20" /> <b>Diseño Responsivo</b><br />
+Arquitectura Mobile-First garantizando fluidez en móviles, tablets y escritorio.
 </td>
 </tr>
 </table>
 
+<br />
+
 🛠️ Tecnologías Utilizadas
 
-Framework: React 18
+<div align="left">
+<ul>
+<li><b>Framework:</b> <a href="https://reactjs.org/">React 18</a></li>
+<li><b>Herramienta de Construcción:</b> <a href="https://vitejs.dev/">Vite</a> (Velocidad de desarrollo ultra rápida)</li>
+<li><b>Lenguaje:</b> TypeScript (Tipado estricto para mayor escalabilidad)</li>
+<li><b>Estilos:</b> Tailwind CSS</li>
+<li><b>Iconografía:</b> Lucide React</li>
+<li><b>Enrutamiento:</b> React Router DOM v7</li>
+</ul>
+</div>
 
-Herramienta de Construcción: Vite (Velocidad de desarrollo ultra rápida)
-
-Lenguaje: TypeScript (Tipado estricto para mayor escalabilidad)
-
-Estilos: Tailwind CSS
-
-Iconografía: Lucide React
-
-Enrutamiento: React Router DOM v7
+<br />
 
 📋 Requisitos Previos
 
-Antes de comenzar, asegúrate de tener instalado:
+<div align="left">
+<p>Antes de comenzar, asegúrate de tener instalado:</p>
+<ul>
+<li><b>Node.js:</b> Versión 22 recomendada.</li>
+<li><b>NPM:</b> Gestor de paquetes estándar de Node.</li>
+</ul>
+</div>
 
-Node.js: Versión 22 recomendada.
-
-NPM: Gestor de paquetes estándar de Node.
+<br />
 
 ⚙️ Instalación y Ejecución
 
-Sigue estos pasos para desplegar el entorno de desarrollo en tu máquina local:
+<div align="left">
+<p>Sigue estos pasos para desplegar el entorno en tu máquina local:</p>
+</div>
 
 Clonar el repositorio:
 
@@ -80,27 +91,48 @@ npm run dev
 Visualizar el proyecto:
 Abre tu navegador en http://localhost:5173.
 
+<br />
+
 📂 Estructura del Proyecto
 
-src/app/pages: Vistas principales (Home, Certificaciones detalladas).
+<table width="100%">
+<tr>
+<td><code>src/app/pages</code></td>
+<td>Vistas principales (Home, Certificaciones detalladas).</td>
+</tr>
+<tr>
+<td><code>src/app/components</code></td>
+<td>Componentes atómicos y estructurales (Header, Footer, Grillas).</td>
+</tr>
+<tr>
+<td><code>src/data</code></td>
+<td>Bases de datos JSON que alimentan el contenido dinámico.</td>
+</tr>
+<tr>
+<td><code>src/context</code></td>
+<td>Lógica de estado global para Idioma y Tema.</td>
+</tr>
+<tr>
+<td><code>src/types</code></td>
+<td>Definiciones de interfaces y tipos para TypeScript.</td>
+</tr>
+</table>
 
-src/app/components: Componentes atómicos y estructurales (Header, Footer, Grillas).
-
-src/data: Bases de datos JSON que alimentan el contenido dinámico del sitio.
-
-src/context: Lógica de estado global para Idioma y Tema.
-
-src/types: Definiciones de interfaces y tipos para TypeScript.
+<br />
 
 📖 Notas de Uso
 
-Navegación Dinámica: Al navegar por el menú de Certificaciones, el sitio carga los marcos oficiales (ISO 9001/14001) o el diseño estilizado de la Triple Certificación (ISO 45001) automáticamente.
-
-Sincronización de Idioma: El selector del Header actualiza no solo la interfaz, sino también los documentos técnicos y legales presentados en las vistas detalladas.
+<div align="left">
+<ul>
+<li><b>Navegación Dinámica:</b> Al navegar por el menú de Certificaciones, el sitio carga automáticamente los marcos oficiales (ISO 9001/14001) o el diseño estilizado de la Triple Certificación (ISO 45001).</li>
+<li><b>Sincronización de Idioma:</b> El selector del Header actualiza la interfaz y los documentos técnicos presentados en las vistas detalladas.</li>
+</ul>
+</div>
 
 <br />
 
 <div align="center">
+<hr />
 <p>Desarrollado como prototipo de alta fidelidad para <b>Manutenpul S.r.l.s.</b></p>
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/award.svg" width="40" height="40" />
 </div>
