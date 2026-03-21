@@ -69,27 +69,47 @@ Arquitectura Mobile-First garantizando fluidez en móviles, tablets y escritorio
 ⚙️ Instalación y Ejecución
 
 <div align="left">
-<p>Sigue estos pasos para desplegar el entorno en tu máquina local:</p>
+<p>Sigue estos pasos para desplegar el entorno en tu máquina local de forma rápida y sencilla:</p>
 </div>
 
-Clonar el repositorio:
-
-git clone [https://github.com/Studios-TKOH/MANUTENPULprototipo.git](https://github.com/Studios-TKOH/MANUTENPULprototipo.git)
-
-Entrar en la carpeta del proyecto:
-
-cd MANUTENPULprototipo
-
-Instalar las dependencias:
-
-npm install
-
-Iniciar el servidor de desarrollo:
-
-npm run dev
-
-Visualizar el proyecto:
-Abre tu navegador en http://localhost:5173.
+<table width="100%">
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/terminal.svg" width="18" height="18" /> <b>1. Clonar el repositorio</b><br />
+Descarga el código fuente a tu equipo local.
+<pre>git clone https://github.com/Studios-TKOH/MANUTENPULprototipo.git</pre>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/folder-open.svg" width="18" height="18" /> <b>2. Entrar en la carpeta del proyecto</b><br />
+Ubícate en la raíz del repositorio clonado.
+<pre>cd MANUTENPULprototipo</pre>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/package.svg" width="18" height="18" /> <b>3. Instalar las dependencias</b><br />
+Descarga todas las librerías necesarias mediante NPM.
+<pre>npm install</pre>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/play.svg" width="18" height="18" /> <b>4. Iniciar el servidor de desarrollo</b><br />
+Levanta el entorno local con Hot Reloading.
+<pre>npm run dev</pre>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/external-link.svg" width="18" height="18" /> <b>5. Visualizar el proyecto</b><br />
+Abre tu navegador preferido en la siguiente dirección:
+<br />
+<a href="http://localhost:5173">http://localhost:5173</a>
+</td>
+</tr>
+</table>
 
 <br />
 
