@@ -1,14 +1,7 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/shield-check.svg" width="80" height="80" />
 <h1>Manutenpul S.r.l.s.</h1>
 <h3>Prototipo Web Corporativo de Alta Fidelidad</h3>
 <p><i>Liderazgo en Facility Management y Limpieza Industrial con operaciones en Italia y Perú.</i></p>
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-18-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dfor-the-badge%26logo%3Dvite" />
-</div>
 
 <br />
 
@@ -17,21 +10,21 @@
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/languages.svg" width="20" height="20" /> <b>Sistema Multilingüe Real</b><br />
+ <b>Sistema Multilingüe Real</b><br />
 Soporte completo para IT, ES y EN gestionado mediante Context API para una reactividad instantánea.
 </td>
 <td width="50%">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/file-check.svg" width="20" height="20" /> <b>Certificaciones Dinámicas</b><br />
+ <b>Certificaciones Dinámicas</b><br />
 Páginas de detalle para ISO 9001, 14001 y 45001 generadas desde archivos JSON estructurados.
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/moon.svg" width="20" height="20" /> <b>Gestión de Temas</b><br />
+ <b>Gestión de Temas</b><br />
 Modo Oscuro y Claro implementado con <code>next-themes</code>, optimizado para el usuario.
 </td>
 <td>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/smartphone.svg" width="20" height="20" /> <b>Diseño Responsivo</b><br />
+ <b>Diseño Responsivo</b><br />
 Arquitectura Mobile-First garantizando fluidez en móviles, tablets y escritorio.
 </td>
 </tr>
@@ -75,35 +68,35 @@ Arquitectura Mobile-First garantizando fluidez en móviles, tablets y escritorio
 <table width="100%">
 <tr>
 <td>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/terminal.svg" width="18" height="18" /> <b>1. Clonar el repositorio</b><br />
+ <b>1. Clonar el repositorio</b><br />
 Descarga el código fuente a tu equipo local.
 <pre>git clone https://github.com/Studios-TKOH/MANUTENPULprototipo.git</pre>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/folder-open.svg" width="18" height="18" /> <b>2. Entrar en la carpeta del proyecto</b><br />
+ <b>2. Entrar en la carpeta del proyecto</b><br />
 Ubícate en la raíz del repositorio clonado.
 <pre>cd MANUTENPULprototipo</pre>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/package.svg" width="18" height="18" /> <b>3. Instalar las dependencias</b><br />
+<b>3. Instalar las dependencias</b><br />
 Descarga todas las librerías necesarias mediante NPM.
 <pre>npm install</pre>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/play.svg" width="18" height="18" /> <b>4. Iniciar el servidor de desarrollo</b><br />
+<b>4. Iniciar el servidor de desarrollo</b><br />
 Levanta el entorno local con Hot Reloading.
 <pre>npm run dev</pre>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/external-link.svg" width="18" height="18" /> <b>5. Visualizar el proyecto</b><br />
+ <b>5. Visualizar el proyecto</b><br />
 Abre tu navegador preferido en la siguiente dirección:
 <br />
 <a href="http://localhost:5173">http://localhost:5173</a>
@@ -154,5 +147,4 @@ Abre tu navegador preferido en la siguiente dirección:
 <div align="center">
 <hr />
 <p>Desarrollado como prototipo de alta fidelidad para <b>Manutenpul S.r.l.s.</b></p>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/lucide-react/lucide/main/icons/award.svg" width="40" height="40" />
 </div>
