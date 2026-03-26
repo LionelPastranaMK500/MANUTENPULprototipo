@@ -22,7 +22,6 @@ export const Header: React.FC = () => {
     setTheme(theme === "dark" ? "light" : "dark");
   };
 
-  // Opciones del combobox de certificaciones
   const certificationsLinks = [
     { label: "ISO 9001", href: "/certificaciones/iso-9001" },
     { label: "ISO 14001", href: "/certificaciones/iso-14001" },
@@ -34,7 +33,7 @@ export const Header: React.FC = () => {
       className={`fixed top-0 w-full z-[100] transition-all duration-700 ${
         isScrolled
           ? "h-20 bg-white/95 dark:bg-slate-950/95 backdrop-blur-md shadow-2xl border-b border-slate-200 dark:border-white/5"
-          : "h-28 bg-transparent"
+          : "h-20 bg-transparent"
       }`}
     >
       <div className="flex justify-between items-center mx-auto px-8 max-w-7xl h-full">
@@ -85,7 +84,7 @@ export const Header: React.FC = () => {
                       <a
                         key={sub.label}
                         href={sub.href}
-                        className="block hover:bg-blue-600 px-6 py-3 font-bold text-[10px] text-slate-600 dark:text-white/40 hover:text-white uppercase tracking-widest transition-all"
+                        className="block hover:bg-blue-600 px-6 py-3 font-bold text-[10px] text-slate-600 hover:text-white dark:text-white/40 uppercase tracking-widest transition-all"
                       >
                         {sub.label}
                       </a>
@@ -121,9 +120,9 @@ export const Header: React.FC = () => {
 
               {/* Contenido del Dropdown/Combobox */}
               {activeDropdown === "certs" && (
-                <div className="top-full left-0 absolute bg-white dark:bg-slate-900 shadow-2xl py-4 border border-slate-200 dark:border-white/5 w-64 animate-in fade-in slide-in-from-top-2 transition-all duration-300">
-                  <div className="px-6 py-2 mb-2 border-b border-slate-100 dark:border-white/5">
-                    <span className="text-[10px] font-black text-blue-600 dark:text-blue-400 uppercase tracking-widest">
+                <div className="top-full left-0 absolute bg-white dark:bg-slate-900 slide-in-from-top-2 shadow-2xl py-4 border border-slate-200 dark:border-white/5 w-64 transition-all animate-in duration-300 fade-in">
+                  <div className="mb-2 px-6 py-2 border-slate-100 dark:border-white/5 border-b">
+                    <span className="font-black text-[10px] text-blue-600 dark:text-blue-400 uppercase tracking-widest">
                       {lang === "ES"
                         ? "Estándares ISO"
                         : lang === "IT"
@@ -135,9 +134,9 @@ export const Header: React.FC = () => {
                     <a
                       key={sub.label}
                       href={sub.href}
-                      className="flex items-center gap-3 hover:bg-blue-600 px-6 py-4 font-bold text-[10px] text-slate-600 dark:text-white/40 hover:text-white uppercase tracking-widest transition-all group/sub"
+                      className="group/sub flex items-center gap-3 hover:bg-blue-600 px-6 py-4 font-bold text-[10px] text-slate-600 hover:text-white dark:text-white/40 uppercase tracking-widest transition-all"
                     >
-                      <div className="w-8 h-8 rounded-lg bg-blue-50 dark:bg-white/5 flex items-center justify-center group-hover/sub:bg-white/20 transition-colors">
+                      <div className="flex justify-center items-center bg-blue-50 dark:bg-white/5 group-hover/sub:bg-white/20 rounded-lg w-8 h-8 transition-colors">
                         <Award
                           size={14}
                           className="text-blue-600 group-hover/sub:text-white"
@@ -194,7 +193,7 @@ export const Header: React.FC = () => {
             </div>
           </div>
 
-          <button
+          {/* <button
             className={`px-8 py-4 font-black text-[10px] uppercase tracking-[0.2em] transition-all ${
               isScrolled
                 ? "bg-blue-600 text-white hover:bg-slate-900"
@@ -202,7 +201,7 @@ export const Header: React.FC = () => {
             }`}
           >
             {navigation.cta}
-          </button>
+          </button> */}
         </div>
 
         {/* Mobile Menu Button */}
