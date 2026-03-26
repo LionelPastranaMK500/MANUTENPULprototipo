@@ -1,103 +1,274 @@
 {
   "IT": {
     "iso-9001": {
-      "title": "ISO 9001:2015",
-      "subtitle": "Sistema di Gestione della Qualità",
-      "description": "Lo standard internazionale che definisce i requisiti per un sistema di gestione della qualità (SGQ). Aiuta le aziende a migliorare l'efficienza e la soddisfazione del cliente.",
-      "benefits": [
-        "Miglioramento dell'immagine",
-        "Soddisfazione del cliente",
-        "Integrazione dei processi"
-      ],
-      "icon": "Award"
+      "title": "Certificazione ISO 9001 per la Qualità",
+      "path": "Home / ISO / 9001",
+      "fullText": [
+        "Noi di Manutenpul abbiamo fatto una scelta di qualità che riguarda sia la professionalità dei dipendenti, sia l’alta qualità dei prodotti, delle attrezzature e dei macchinari, per questo abbiamo messo in pratica metodologie che ci hanno permesso di ottenere l’attestato di qualità con la Certificazione ISO 9001 rilasciata dall’Ente certificatore “Accredia” al n 1382 sin dal 2001 e rinnovato di anno in anno.",
+        "Questa norma internazionale, che ora è chiamata 9001:2015 per evidenziare l’anno in cui è stata aggiornata, è stata definita dall’International Organization for Standardization (ISO) e prende in esame i Sistemi di Gestione per la Qualità (SGQ).",
+        "Per ottenere la certificazione bisogna realizzare documenti con le descrizione dei processi e delle politiche aziendali che devono essere coerenti con le linee guida della norma. Rendere esplicite le regole e i metodi di lavoro, inoltre, garantisce trasparenza sia nei confronti dei dipendenti, sia nei confronti dei clienti.",
+        "Abbiamo ottenuto questo attestato perché siamo stati sempre attenti ad usare dei prodotti adatti a risolvere ogni problema di pulizia, a non danneggiare gli ambienti da pulire e a non provocare inconvenienti alle persone che frequentano gli ambienti stessi.",
+        "Chiunque ha usufruito dei nostri servizi può affermare che l’impresa di pulizie Manutenpul Pulizie Milano utilizza attrezzature all’avanguardia e macchinari silenziosi e che non inquinano.",
+        "La ISO 9001 si rivolge a qualsiasi tipologia di organizzazione pubblica o privata, di qualsiasi settore e dimensione, manifatturiera o di servizi. È lo standard di riferimento internazionalmente riconosciuto per la gestione della qualità di qualsiasi organizzazione che intenda rispondere contemporaneamente:",
+        "• All’esigenza dell’aumento dell’efficacia ed efficienza dei processi interni – quale strumento di organizzazione per raggiungere i propri obiettivi;\n• Alla crescente competitività nei mercati attraverso il miglioramento della soddisfazione e della fidelizzazione dei clienti.",
+        "Scopo primario dell’ISO 9001 è il perseguimento della soddisfazione del proprio cliente in merito ai prodotti e servizi forniti, nonché il continuo miglioramento delle prestazioni aziendali, permettendo all’azienda certificata di assicurare ai propri clienti il mantenimento e il miglioramento nel tempo della qualità dei propri beni e servizi.",
+        "Da questo punto di vista il modello ISO 9001 è uno strumento strategico in quanto mirato a:",
+        "• Valutazione del contesto e parti interessate;\n• Analisi di rischi ed opportunità come base per definire opportune azioni;\n• Controllo dei costi;\n• Aumento della produttività;\n• Riduzione degli sprechi.",
+        "Tutto questo si traduce nella riduzione del rischio di non rispettare quanto promesso ai clienti e nella capacità di tenere sotto controllo i processi tramite la misurazione delle prestazioni e l’individuazione di adeguati indicatori. Inoltre viene spesso richiesta dai bandi di gara pubblici."
+      ]
     },
     "iso-14001": {
-      "title": "ISO 14001:2015",
-      "subtitle": "Sistema di Gestione Ambientale",
-      "description": "Certifica il nostro impegno nel proteggere l'ambiente e rispondere alle mutevoli condizioni ambientali in equilibrio con le esigenze socio-economiche.",
-      "benefits": [
-        "Riduzione dei rifiuti",
-        "Efficienza energetica",
-        "Conformità legale"
-      ],
-      "icon": "Shield"
+      "title": "Certificazione ecologica ISO 14001",
+      "path": "Home / ISO / 14001",
+      "fullText": [
+        "Noi di Manutenpul siamo molto attenti all’ambiente, per questo ci siamo impegnati per ottenere la certificazione ISO 14001.",
+        "L’International Organization for Standardization (ISO) ha realizzato questa norma tecnica per regolamentare i Sistemi di Gestione Ambientale (SGA). Per essere certificati ISO 14001 bisogna soddisfare i requisiti di gestione ambientale descritti nella normativa stessa.",
+        "La normativa è composta da sette sezioni dedicate ai requisiti degli SGA precedute da 3 sezioni che svolgono una funzione introduttiva alle successive.",
+        "Noi crediamo che il rispetto dell’ambiente sia essenziale per avere un’aria più pulita e respirabile, per vivere in luoghi piacevoli e sani, per tutelare il futuro delle prossime generazioni. Per questi motivi utilizziamo prodotti ECOLABEL che sono pulenti, profumati e innocui sia nei confronti di persone sia di animali.",
+        "Siamo molto scrupolosi in ogni fase della pulizia e abbiamo deciso di utilizzare solo prodotti, attrezzature e macchinari dotati di schede tecniche. Questo è stato un altro fattore che ci ha permesso di ottenere la certificazione ecologica ISO 14001 rilasciata da SMC in data 12/03/2017.",
+        "La ISO 14001 è una norma internazionale ad adesione volontaria, applicabile a qualsiasi tipologia di Organizzazione pubblica o privata, che specifica i requisiti di un sistema di gestione ambientale. Secondo noi per un’impresa di pulizie di Milano è molto importante seguire le linee guida della norma allo scopo di garantire non solo servizi di qualità ma anche il rispetto di principi fondamentali come quelli vicini all’ecologia.",
+        "È possibile integrare questa norma con altri sistemi di gestione conformi a norme specifiche, ad esempio la ISO 9001 che prende in esame i sistemi di gestione della qualità, i quali influiscono decisamente sulla soddisfazione del cliente.",
+        "Per definire il sistema di gestione conforme alla ISO 14001 è necessario: realizzare un’analisi ambientale approfondita; definire una Politica aziendale e responsabilità specifiche; e mantenere attive le procedure previste dai requisiti della 14001.",
+        "Le attività di audit interno e di certificazione a fronte della ISO 14001 vanno espletate da organismi/società competenti in materia.",
+        "Noi di Manutenpul continuiamo a curare con estrema attenzione tutti gli aspetti del nostro lavoro che possono influire sull’ambiente, ricerchiamo macchinari e prodotti sempre meno impattanti e formiamo il nostro personale per essere attento alla qualità dei servizi da ogni punto di vista."
+      ]
     },
     "iso-45001": {
-      "title": "ISO 45001:2018",
-      "subtitle": "Salute e Sicurezza sul Lavoro",
-      "description": "Fornisce un quadro per gestire i rischi e le opportunità per la salute e la seguridad sul lavoro per prevenire infortuni e malattie.",
-      "benefits": [
-        "Ambiente sicuro",
-        "Riduzione infortuni",
-        "Cultura preventiva"
+      "isSpecial": true,
+      "title": "Certificazione per la salute e sicurezza sul lavoro ISO 45001",
+      "path": "Home / ISO / 45001",
+      "subtitle": "Il nostro impegno verso l'ambiente, la salute e la sicurezza",
+      "intro": "Noi di Manutenpul siamo molto attenti all’ambiente e alla salute e sicurezza. Per questo motivo, ci siamo impegnati per ottenere Tre importanti certificazioni internazionali: ISO 9001, ISO 14001 e ISO 45001.",
+      "sections": [
+        {
+          "id": "14001",
+          "title": "Certificazione ISO 14001",
+          "text": "L’ISO 14001, rilasciata in data 12/03/2017, è una norma internazionale che regolamenta i Sistemi di Gestione Ambientale (SGA), con l'obiettivo di garantire il rispetto per l’ambiente. Noi crediamo fermamente che il rispetto dell’ambiente sia essenziale per migliorare la qualità della vita, preservare la salute e tutelare le generazioni future.\n\nAbbiamo adottato prodotti ECOLABEL, ecologici, profumati e innocui per persone e animali. Inoltre, tutti i nostri macchinari e attrezzature sono dotati di schede tecniche per assicurare un utilizzo consapevole e responsabile. Questi standard ci permettono di garantire servizi di qualità e rispettosi dell'ambiente.",
+          "listTitle": "Per definire il nostro sistema di gestione ambientale conforme alla norma ISO 14001, abbiamo adottato:",
+          "items": [
+            {
+              "bold": "Analisi ambientale:",
+              "desc": "valutazione degli aspetti critici e impatti ambientali."
+            },
+            {
+              "bold": "Politica aziendale ambientale:",
+              "desc": "definizione di obiettivi chiari e misurabili."
+            },
+            {
+              "bold": "Procedure implementate:",
+              "desc": "garanzia del rispetto dei requisiti normativi."
+            },
+            {
+              "bold": "Programmi di audit interno:",
+              "desc": "miglioramento continuo delle performance."
+            }
+          ]
+        },
+        {
+          "id": "45001",
+          "title": "Certificazione ISO 45001",
+          "text": "Parallelamente, abbiamo ottenuto la certificazione ISO 45001, la prima norma internazionale per la gestione della salute e sicurezza sul lavoro (SGSL), che ha sostituito la precedente OHSAS 18001. Questo riconoscimento, ufficializzato il 12 marzo 2018, attesta il nostro impegno nel garantire ambienti di lavoro sicuri e nel prevenire infortuni e malattie professionali.\n\nLa norma ISO 45001 stabilisce i requisiti per identificare e gestire i rischi legati alla sicurezza, promuovendo una cultura basata su prevenzione e protezione. L’adozione di questo sistema offre vantaggi significativi:",
+          "items": [
+            {
+              "bold": "Miglioramento continuo:",
+              "desc": "prestazioni elevate in salute e sicurezza."
+            },
+            {
+              "bold": "Riduzione dei rischi:",
+              "desc": "prevenzione di incidenti e malattie."
+            },
+            {
+              "bold": "Conformità legale:",
+              "desc": "rispetto delle normative nazionali e internazionali."
+            },
+            {
+              "bold": "Sensibilizzazione:",
+              "desc": "coinvolgimento attivo dei dipendenti."
+            }
+          ]
+        }
       ],
-      "icon": "CheckCircle"
+      "whyTitle": "Perché scegliere Manutenpul?",
+      "whyText": "La Tripla certificazione ISO 9001, ISO 14001 e ISO 45001 è una testimonianza del nostro impegno verso l’eccellenza, sia dal punto di vista ambientale che della sicurezza sul lavoro. Scegliendo Manutenpul, scegli un partner che mette al primo posto la qualità, la sostenibilità e la sicurezza.\n\nOffriamo soluzioni professionali e su misura, garantendo risultati impeccabili in qualsiasi contesto: condomini, uffici, scuole e attività commerciali. Siamo operativi 24 ore su 24, 365 giorni all’anno, per soddisfare ogni esigenza dei nostri clienti."
     }
   },
   "ES": {
     "iso-9001": {
-      "title": "ISO 9001:2015",
-      "subtitle": "Sistema de Gestión de Calidad",
-      "description": "El estándar internacional que define los requisitos para un sistema de gestión de calidad (SGC). Ayuda a las organizaciones a demostrar su capacidad para proporcionar productos y servicios que satisfagan los requisitos del cliente.",
-      "benefits": [
-        "Mejora de la imagen",
-        "Satisfacción del cliente",
-        "Integración de procesos"
-      ],
-      "icon": "Award"
+      "title": "Certificación ISO 9001 de Calidad",
+      "path": "Inicio / ISO / 9001",
+      "fullText": [
+        "En Manutenpul hemos tomado una decisión de calidad que afecta tanto a la profesionalidad de nuestros empleados como a la alta calidad de nuestros productos, equipos y maquinaria. Por ello, hemos implementado metodologías que nos han permitido obtener el certificado de calidad ISO 9001, emitido por el organismo de certificación 'Accredia' con el n° 1382 desde el año 2001 y renovado anualmente.",
+        "Esta norma internacional, actualmente denominada 9001:2015 para resaltar el año de su última actualización, fue definida por la Organización Internacional de Normalización (ISO) y examina los Sistemas de Gestión de la Calidad (SGC).",
+        "Para obtener la certificación, es necesario elaborar documentos que describan los procesos y las políticas de la empresa, los cuales deben ser coherentes con las directrices de la norma. Hacer explícitas las reglas y los métodos de trabajo garantiza la transparencia tanto hacia los empleados como hacia los clientes.",
+        "Hemos obtenido este certificado porque siempre hemos tenido cuidado de utilizar productos adecuados para resolver cualquier problema de limpieza, sin dañar los ambientes y sin causar inconvenientes a las personas que los frecuentan.",
+        "Cualquier persona que haya utilizado nuestros servicios puede afirmar que la empresa de limpieza Manutenpul utiliza equipos de vanguardia y maquinaria silenciosa que no contamina.",
+        "La norma ISO 9001 está dirigida a cualquier tipo de organización pública o privada, de cualquier sector y tamaño. Es el estándar de referencia reconocido internacionalmente para la gestión de la calidad que pretende responder simultáneamente a la eficacia interna y a la competitividad en el mercado.",
+        "El objetivo primordial de la ISO 9001 es la búsqueda de la satisfacción del cliente en relación con los productos y servicios prestados, así como la mejora continua del desempeño empresarial, asegurando la calidad a lo largo del tiempo.",
+        "Desde este punto de vista, el modelo ISO 9001 es una herramienta estratégica orientada a la evaluación del contexto, análisis de riesgos, control de costes, aumento de la productividad y reducción de residuos.",
+        "Todo esto se traduce en la reducción del riesgo de incumplimiento de lo prometido a los clientes y en la capacidad de controlar los procesos mediante la medición del desempeño e indicadores adecuados. Además, suele ser un requisito en las licitaciones públicas."
+      ]
     },
     "iso-14001": {
-      "title": "ISO 14001:2015",
-      "subtitle": "Sistema de Gestión Ambiental",
-      "description": "Certifica nuestro compromiso con la protección del medio ambiente y la respuesta a las condiciones ambientales cambiantes.",
-      "benefits": [
-        "Reducción de residuos",
-        "Eficiencia energética",
-        "Cumplimiento legal"
-      ],
-      "icon": "Shield"
+      "title": "Certificación ecológica ISO 14001",
+      "path": "Inicio / ISO / 14001",
+      "fullText": [
+        "En Manutenpul estamos muy atentos al medio ambiente, por lo que nos hemos comprometido a obtener la certificación ISO 14001.",
+        "La Organización Internacional de Normalización (ISO) ha creado esta norma técnica para regular los Sistemas de Gestión Ambiental (SGA). Para estar certificado bajo la norma ISO 14001, es necesario cumplir con los requisitos de gestión ambiental descritos en la propia normativa.",
+        "La normativa se compone de siete secciones dedicadas a los requisitos del SGA, precedidas por 3 secciones introductorias.",
+        "Creemos que el respeto al medio ambiente es esencial para tener un aire más limpio y respirable, para vivir en lugares agradables y saludables, y para proteger el futuro de las próximas generaciones. Por estos motivos, utilizamos productos ECOLABEL que son limpiadores, perfumados e inofensivos tanto para personas como para animales.",
+        "Somos muy escrupulosos en cada fase de la limpieza y hemos decidido utilizar únicamente productos, equipos y maquinaria dotados de fichas técnicas. Este ha sido otro factor que nos ha permitido obtener la certificación ecológica ISO 14001 emitida por SMC el 12/03/2017.",
+        "La norma ISO 14001 es un estándar internacional de adhesión voluntaria, aplicable a cualquier tipo de organización pública o privada. Para una empresa de limpieza en Milán, es fundamental seguir estas directrices para garantizar no solo servicios de calidad, sino también el respeto por los principios ecológicos.",
+        "Es posible integrar esta norma con otros sistemas de gestión, como la ISO 9001 de gestión de la calidad, que influye directamente en la satisfacción del cliente.",
+        "Para definir el sistema de gestión conforme a la ISO 14001 es necesario: realizar un análisis ambiental detallado de emisiones y recursos, definir una Política empresarial y responsabilidades específicas, y mantener activos los procedimientos y registros requeridos.",
+        "Las actividades de auditoría interna y certificación bajo la norma ISO 14001 deben ser realizadas por organismos o empresas competentes en la materia.",
+        "En Manutenpul seguimos cuidando con extrema atención todos los aspectos de nuestro trabajo que puedan influir en el medio ambiente, buscando maquinaria y productos con menor impacto y formando a nuestro personal para la excelencia integral."
+      ]
     },
     "iso-45001": {
-      "title": "ISO 45001:2018",
-      "subtitle": "Salud y Seguridad en el Trabajo",
-      "description": "Proporciona un marco para gestionar los riesgos y oportunidades para la SST con el fin de prevenir lesiones y problemas de salud relacionados con el trabajo.",
-      "benefits": [
-        "Entorno seguro",
-        "Reducción de accidentes",
-        "Cultura preventiva"
+      "isSpecial": true,
+      "title": "Certificación de Salud y Seguridad en el Trabajo ISO 45001",
+      "path": "Inicio / ISO / 45001",
+      "subtitle": "Nuestro compromiso con el medio ambiente, la salud y la seguridad",
+      "intro": "En Manutenpul estamos muy atentos al medio ambiente y a la seguridad. Por ello, nos hemos comprometido a obtener tres importantes certificaciones internacionales: ISO 9001, ISO 14001 e ISO 45001.",
+      "sections": [
+        {
+          "id": "14001",
+          "title": "Certificación ISO 14001",
+          "text": "La norma ISO 14001, emitida el 12/03/2017, regula los Sistemas de Gestión Ambiental (SGA), con el objetivo de garantizar el respeto al medio ambiente. Creemos firmemente que el respeto al entorno es esencial para mejorar la calidad de vida y proteger a las generaciones futuras.\n\nUtilizamos productos ECOLABEL, ecológicos e inofensivos para personas y animales. Además, nuestra maquinaria cuenta con fichas técnicas para un uso responsable.",
+          "listTitle": "Para nuestro sistema de gestión ambiental ISO 14001, hemos adoptado:",
+          "items": [
+            {
+              "bold": "Análisis ambiental:",
+              "desc": "evaluación de aspectos críticos e impactos."
+            },
+            {
+              "bold": "Política ambiental:",
+              "desc": "objetivos claros y medibles."
+            },
+            {
+              "bold": "Procedimientos:",
+              "desc": "garantía de cumplimiento normativo."
+            },
+            { "bold": "Auditorías:", "desc": "mejora continua del desempeño." }
+          ]
+        },
+        {
+          "id": "45001",
+          "title": "Certificación ISO 45001",
+          "text": "Paralelamente, hemos obtenido la certificación ISO 45001, el primer estándar internacional para la gestión de la salud y seguridad en el trabajo (SST), que sustituyó a la anterior OHSAS 18001. Este reconocimiento oficializa nuestro compromiso con entornos laborales seguros.",
+          "items": [
+            {
+              "bold": "Mejora continua:",
+              "desc": "alto desempeño en seguridad."
+            },
+            {
+              "bold": "Reducción de riesgos:",
+              "desc": "prevención de accidentes y enfermedades."
+            },
+            {
+              "bold": "Cumplimiento legal:",
+              "desc": "respeto a normativas internacionales."
+            },
+            {
+              "bold": "Sensibilización:",
+              "desc": "participación activa del personal."
+            }
+          ]
+        }
       ],
-      "icon": "CheckCircle"
+      "whyTitle": "¿Por qué elegir Manutenpul?",
+      "whyText": "La Triple Certificación ISO 9001, ISO 14001 e ISO 45001 es testimonio de nuestra excelencia integral. Ofrecemos soluciones a medida 24/7 en condominios, oficinas y comercios, garantizando resultados impecables."
     }
   },
   "EN": {
     "iso-9001": {
-      "title": "ISO 9001:2015",
-      "subtitle": "Quality Management System",
-      "description": "The international standard that specifies requirements for a quality management system (QMS). It helps organizations to improve efficiency and customer satisfaction.",
-      "benefits": [
-        "Image improvement",
-        "Customer satisfaction",
-        "Process integration"
-      ],
-      "icon": "Award"
+      "title": "ISO 9001 Quality Certification",
+      "path": "Home / ISO / 9001",
+      "fullText": [
+        "At Manutenpul, we have made a quality choice concerning both the professionalism of our employees and the high quality of products, equipment, and machinery. For this reason, we have implemented methodologies that allowed us to obtain the ISO 9001 quality certificate, issued by the 'Accredia' certification body since 2001.",
+        "This international standard, now called 9001:2015 to highlight its last update year, was defined by the International Organization for Standardization (ISO) and examines Quality Management Systems (QMS).",
+        "To obtain certification, business processes and policies must be documented in alignment with the standard's guidelines. Explicit rules and working methods ensure transparency for both employees and customers.",
+        "We obtained this certificate because we have always been careful to use suitable products for every cleaning challenge, without damaging the environments or causing inconvenience to people.",
+        "Anyone who has used our services can confirm that Manutenpul uses cutting-edge equipment and silent, non-polluting machinery.",
+        "ISO 9001 is the internationally recognized reference standard for quality management for any organization intending to respond to internal efficiency needs and market competitiveness.",
+        "The primary purpose of ISO 9001 is the pursuit of customer satisfaction and continuous improvement of business performance, allowing the company to ensure quality over time.",
+        "From this perspective, the ISO 9001 model is a strategic tool aimed at context evaluation, risk analysis, cost control, productivity increase, and waste reduction.",
+        "All of this results in reducing the risk of not fulfilling promises to customers and the ability to keep processes under control through performance measurement. Furthermore, it is often required in public tenders."
+      ]
     },
     "iso-14001": {
-      "title": "ISO 14001:2015",
-      "subtitle": "Environmental Management System",
-      "description": "Certifies our commitment to protecting the environment and responding to changing environmental conditions in balance with socio-economic needs.",
-      "benefits": ["Waste reduction", "Energy efficiency", "Legal compliance"],
-      "icon": "Shield"
+      "title": "ISO 14001 Ecological Certification",
+      "path": "Home / ISO / 14001",
+      "fullText": [
+        "At Manutenpul, we are very environment-conscious, which is why we committed to obtaining the ISO 14001 certification.",
+        "The International Organization for Standardization (ISO) created this technical standard to regulate Environmental Management Systems (EMS). To be ISO 14001 certified, environmental management requirements must be met.",
+        "The regulations consist of seven sections dedicated to EMS requirements, preceded by 3 introductory sections.",
+        "We believe environmental respect is essential for cleaner air, healthy living spaces, and protecting future generations. Therefore, we use ECOLABEL products that are effective, scented, and harmless to humans and animals.",
+        "We are meticulous in every cleaning phase, using only products and machinery with technical data sheets. This allowed us to obtain the ISO 14001 ecological certification issued by SMC on 12/03/2017.",
+        "ISO 14001 is a voluntary international standard. For a cleaning company in Milan, following these guidelines is vital to guarantee quality services and respect for ecological principles.",
+        "This standard can be integrated with other management systems, such as ISO 9001 for quality management, which significantly impacts customer satisfaction.",
+        "Defining an ISO 14001 compliant system requires: conducting a detailed environmental analysis, defining a corporate policy, establishing responsibilities, and maintaining procedures and records.",
+        "Internal audit and certification activities for ISO 14001 must be carried out by competent organizations or companies in the field.",
+        "At Manutenpul, we continue to carefully manage all work aspects affecting the environment, seeking low-impact machinery and products while training our staff for total quality."
+      ]
     },
     "iso-45001": {
-      "title": "ISO 45001:2018",
-      "subtitle": "Occupational Health and Safety",
-      "description": "Provides a framework to manage occupational health and safety risks and opportunities to prevent injuries and ill health.",
-      "benefits": [
-        "Safe environment",
-        "Accident reduction",
-        "Preventive culture"
+      "isSpecial": true,
+      "title": "ISO 45001 Occupational Health and Safety Certification",
+      "path": "Home / ISO / 45001",
+      "subtitle": "Our commitment to the environment, health, and safety",
+      "intro": "At Manutenpul, we are deeply committed to the environment and safety. We have obtained three major international certifications: ISO 9001, ISO 14001, and ISO 45001.",
+      "sections": [
+        {
+          "id": "14001",
+          "title": "ISO 14001 Certification",
+          "text": "ISO 14001 regulates Environmental Management Systems (EMS). We believe environmental respect is essential for a better quality of life and the protection of future generations.\n\nWe use ECOLABEL products and machinery with technical specifications for responsible use.",
+          "listTitle": "For our ISO 14001 system, we have adopted:",
+          "items": [
+            {
+              "bold": "Environmental analysis:",
+              "desc": "evaluating critical aspects and impacts."
+            },
+            {
+              "bold": "Environmental policy:",
+              "desc": "clear and measurable objectives."
+            },
+            {
+              "bold": "Procedures:",
+              "desc": "ensuring regulatory compliance."
+            },
+            {
+              "bold": "Internal audits:",
+              "desc": "continuous performance improvement."
+            }
+          ]
+        },
+        {
+          "id": "45001",
+          "title": "ISO 45001 Certification",
+          "text": "We have obtained ISO 45001, the first international standard for occupational health and safety (OHS). This recognition officially marks our commitment to safe workplaces.",
+          "items": [
+            {
+              "bold": "Continuous improvement:",
+              "desc": "high safety performance."
+            },
+            {
+              "bold": "Risk reduction:",
+              "desc": "prevention of accidents and illnesses."
+            },
+            {
+              "bold": "Legal compliance:",
+              "desc": "national and international regulations."
+            },
+            {
+              "bold": "Staff awareness:",
+              "desc": "active employee involvement."
+            }
+          ]
+        }
       ],
-      "icon": "CheckCircle"
+      "whyTitle": "Why choose Manutenpul?",
+      "whyText": "The Triple ISO Certification is a testament to our excellence. We provide 24/7 tailor-made solutions for offices, schools, and commercial activities."
     }
   }
 }
